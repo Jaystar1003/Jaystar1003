@@ -1,7 +1,7 @@
 # Hello, I'm Jakub 👋
 
 Welcome to my GitHub profile! I'm passionate about fullstack development and enjoy working on projects that allow me to improve my skills and have fun while doing so!
-I'm currently pursuing a Bachelor's degree in **Kognitywistyka** (Cognitive Science) at the University of Warsaw. My academic journey involves exploring the fascinating intersection of psychology, neuroscience, linguistics, and computer science.  <br />
+I'm currently pursuing a Bachelor's degree in **Kognitywistyka** (Cognitive Science) at the University of Warsaw. My academic journey involves exploring the fascinating intersection of psychology, neuroscience, linguistics, and computer science.  <br /> <br />
 I am an active member of the **Independent Student Association** (NZS) at the University of Warsaw. This experience has not only enhanced my leadership and teamwork skills but has also provided me with a deeper understanding of the importance of student representation and activism in shaping the university experience.
 
 ## About Me
