@@ -12,7 +12,7 @@ I am an active member of the **Independent Student Association** (NZS) at the Un
 
 ## Skills
 
-- **Programming Languages, Frameworks and Technologies:** Java, Javascript, Python, HTML 5, CSS 3, SQL (PostgreSQL), Git, React JS, Spring Boot.
+- **Programming Languages, Frameworks and Technologies:** Java, Javascript, Python, HTML 5, CSS 3, SQL (PostgreSQL), Git, React JS, Spring Boot, Firebase.
 - **Other Skills:** I'm currently learning Polish Sign Language (PJM)!
 
 ## Projects
