@@ -1,18 +1,18 @@
 # Hello, I'm Jakub 👋
 
 Welcome to my GitHub profile! I'm passionate about fullstack development and enjoy working on projects that allow me to improve my skills and have fun while doing so!
-I'm currently pursuing a Bachelor's degree in **Kognitywistyka** (Cognitive Science) at the University of Warsaw. My academic journey involves exploring the fascinating intersection of psychology, neuroscience, linguistics, and computer science.  <br /> <br />
+I hold a Bachelor's degree in **Kognitywistyka** (Cognitive Science) from the University of Warsaw, and I'm currently pursuing a Master's degree in **Zarządzanie** (Management), also at UW. My academic journey spans the intersection of psychology, neuroscience, linguistics, computer science, and now organizational management.  <br /> <br />
 I am an active member of the **Independent Student Association** (NZS) at the University of Warsaw. This experience has not only enhanced my leadership and teamwork skills but has also provided me with a deeper understanding of the importance of student representation and activism in shaping the university experience.
 
 ## About Me
 
 - 🌍 Location: Warsaw, Poland
 - 💼 Occupation: Student
-- 🎓 Education: Univeristy of Warsaw, Kognitywistyka, III year (currently)
+- 🎓 Education: University of Warsaw — B.Sc. Kognitywistyka (completed), M.Sc. Zarządzanie (in progress)
 
 ## Skills
 
-- **Programming Languages, Frameworks and Technologies:** Java, Javascript, Python, HTML 5, CSS 3, SQL (PostgreSQL), Git, React JS, Spring Boot, Firebase.
+- **Programming Languages, Frameworks and Technologies:** Java, JavaScript, Python, HTML5, CSS3, SQL (PostgreSQL), Git, React JS, Spring Boot, Firebase, Docker, Apache Kafka, REST API & API Integration.
 - **Other Skills:** I'm currently learning Polish Sign Language (PJM)!
 
 ## Projects
